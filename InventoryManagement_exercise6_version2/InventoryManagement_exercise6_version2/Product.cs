@@ -12,7 +12,7 @@ namespace InventoryManagement
         private string Name { get; set; }
         private double Price { get; set; }
         private int Quantity { get; set; }
-        private int test; 
+        
        
 
 
