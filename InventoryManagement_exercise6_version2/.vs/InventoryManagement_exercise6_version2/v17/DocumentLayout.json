@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JC\\Desktop\\Test\\InventoryManagement_exercise6_version2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A57CC3D-9F1C-45C0-A719-4D0D2996D31C}|InventoryManagement_exercise6_version2\\InventoryManagement_exercise6_version2.csproj|c:\\users\\jc\\desktop\\test\\inventorymanagement_exercise6_version2\\inventorymanagement_exercise6_version2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A57CC3D-9F1C-45C0-A719-4D0D2996D31C}|InventoryManagement_exercise6_version2\\InventoryManagement_exercise6_version2.csproj|solutionrelative:inventorymanagement_exercise6_version2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A57CC3D-9F1C-45C0-A719-4D0D2996D31C}|InventoryManagement_exercise6_version2\\InventoryManagement_exercise6_version2.csproj|c:\\users\\jc\\desktop\\test\\inventorymanagement_exercise6_version2\\inventorymanagement_exercise6_version2\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A57CC3D-9F1C-45C0-A719-4D0D2996D31C}|InventoryManagement_exercise6_version2\\InventoryManagement_exercise6_version2.csproj|solutionrelative:inventorymanagement_exercise6_version2\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A57CC3D-9F1C-45C0-A719-4D0D2996D31C}|InventoryManagement_exercise6_version2\\InventoryManagement_exercise6_version2.csproj|c:\\users\\jc\\desktop\\test\\inventorymanagement_exercise6_version2\\inventorymanagement_exercise6_version2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A57CC3D-9F1C-45C0-A719-4D0D2996D31C}|InventoryManagement_exercise6_version2\\InventoryManagement_exercise6_version2.csproj|solutionrelative:inventorymanagement_exercise6_version2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\JC\\Desktop\\Test\\InventoryManagement_exercise6_version2\\InventoryManagement_exercise6_version2\\Inventory.cs",
+              "RelativeDocumentMoniker": "InventoryManagement_exercise6_version2\\Inventory.cs",
+              "ToolTip": "C:\\Users\\JC\\Desktop\\Test\\InventoryManagement_exercise6_version2\\InventoryManagement_exercise6_version2\\Inventory.cs",
+              "RelativeToolTip": "InventoryManagement_exercise6_version2\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:39:45.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\JC\\Desktop\\Test\\InventoryManagement_exercise6_version2\\InventoryManagement_exercise6_version2\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagement_exercise6_version2\\Product.cs",
+              "ToolTip": "C:\\Users\\JC\\Desktop\\Test\\InventoryManagement_exercise6_version2\\InventoryManagement_exercise6_version2\\Product.cs",
+              "RelativeToolTip": "InventoryManagement_exercise6_version2\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:19:07.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JC\\Desktop\\Test\\InventoryManagement_exercise6_version2\\InventoryManagement_exercise6_version2\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagement_exercise6_version2\\Program.cs",
+              "ToolTip": "C:\\Users\\JC\\Desktop\\Test\\InventoryManagement_exercise6_version2\\InventoryManagement_exercise6_version2\\Program.cs",
+              "RelativeToolTip": "InventoryManagement_exercise6_version2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:15:51.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
