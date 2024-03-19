@@ -17,5 +17,14 @@ namespace InventoryManagement
             Console.WriteLine($"{quantity} {name} were added successfully.");
             nextID++;
         }
+
+        public void ViewAllProducts()
+        {
+            Console.WriteLine("\nAll products:");
+            foreach (var product in products)
+            {
+                Console.WriteLine($"ID: {product.id}, Name: {product.name}, Price: {product.price}, Quantity: {product.quantity}");
+            }
+        }
     }
 }
