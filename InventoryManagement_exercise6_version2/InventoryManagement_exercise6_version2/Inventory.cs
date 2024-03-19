@@ -9,16 +9,13 @@ namespace InventoryManagement
     public class Inventory
     {
         private List<Product> products;
-        private int nextId;
+        private int nextID;
 
         public void AddProduct(string name, double price, int quantity)
         {
-            products.Add(new Product(nextId, name, price, quantity));
+            products.Add(new Product(nextID, name, price, quantity));
             Console.WriteLine($"{quantity} {name} were added successfully.");
-            nextId++;
+            nextID++;
         }
-
-
-
     }
 }
