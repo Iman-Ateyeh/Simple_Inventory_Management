@@ -112,6 +112,22 @@ namespace InventoryManagement
             {
                 Console.WriteLine("Product not found.");
             }
+        } 
+
+        public void SearchProduct()
+        {
+            Console.WriteLine("\nSearching for a product:");
+            Console.Write("Enter product name: ");
+            string productName = Console.ReadLine();
+            Product product = products.Find(p => p.name == productName);
+            if (product != null)
+            {
+                Console.WriteLine($"ID: {product.id}, Name: {product.name}, Price: {product.price}, Quantity: {product.quantity}");
+            }
+            else
+            {
+                Console.WriteLine("Product not found.");
+            }
         }
     }
 }
